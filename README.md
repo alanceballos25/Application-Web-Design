@@ -21,3 +21,5 @@
 * Ilustrator
   
 # Objectives and Goals
+### Short Term Objectives
+* Graduate as a Software Development Engineer: Focus on successfully completing the academic requirements to obtain my degree in Software Development Engineering.
