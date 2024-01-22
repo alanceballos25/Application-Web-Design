@@ -38,4 +38,4 @@
 
 # Contact Information
 * Correo Electrónico: alanrodrigo140@outlook.com
-* LinkedIn: [Tu Perfil de LinkedIn]
+* LinkedIn: www.linkedin.com/in/alan-ceballos-9ab876227
