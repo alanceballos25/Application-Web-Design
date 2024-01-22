@@ -33,7 +33,7 @@
 * Contribute to the Automotive Community: Contribute to the growth of the automotive community in Mexico, whether through events, sponsorships or initiatives that benefit the sector.
 
 # Personal projects or contributions
-## In this GitHub link you can find some projects that I have developed at the University and also personal projects
+### In this GitHub link you can find some projects that I have developed at the University and also personal projects
 * [GitHub_Personal](https://github.com/alanceballos25/Trabajos_TecMilenio)
 
 # Contact Information
