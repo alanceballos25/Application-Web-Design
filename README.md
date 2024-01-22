@@ -39,3 +39,7 @@
 # Contact Information
 * Email: alanrodrigo140@outlook.com
 * [LinkedIn](www.linkedin.com/in/alan-ceballos-9ab876227)
+
+# Phrases of the Year
+* I think about it, I attract it, I manifest abundance 🫀🧠🪬✨
+* Still The Same 💜☔️
