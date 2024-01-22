@@ -37,5 +37,5 @@
 * [GitHub_Personal](https://github.com/alanceballos25/Trabajos_TecMilenio)
 
 # Contact Information
-* Correo Electrónico: alanrodrigo140@outlook.com
+* Email: alanrodrigo140@outlook.com
 * [LinkedIn](www.linkedin.com/in/alan-ceballos-9ab876227)
