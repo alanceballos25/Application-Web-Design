@@ -5,7 +5,7 @@
 ## I am currently studying a Software Development Engineer degree at the TecMilenio University. So far in my degree I have carried out several team projects, the most recent was an image classification project using neural networks.
 
 # Skills and Tools
-## Programming languages
+### Programming languages
 * Python
 * Java
 * C++
