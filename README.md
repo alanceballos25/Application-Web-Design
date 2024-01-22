@@ -27,7 +27,7 @@
 * Gain Practical Experience: Actively work to gain practical experience in business environments, facing real challenges and improving my professional skills.
 
 # Long-term goals
-*Establish a Car Tuning Business: Starting my own car tuning business, with a focus on quality, innovation and customer satisfaction.
-*Turn it into a Recognized Brand in Mexico: Work to grow my business and turn it into a recognized brand in the Mexican tuning market, standing out for quality and originality.
-*Develop Strategic Alliances: Establish strategic alliances with suppliers, manufacturers and other key players in the automotive industry to strengthen the position of my business.
-*Contribute to the Automotive Community: Contribute to the growth of the automotive community in Mexico, whether through events, sponsorships or initiatives that benefit the sector.
+* Establish a Car Tuning Business: Starting my own car tuning business, with a focus on quality, innovation and customer satisfaction.
+* Turn it into a Recognized Brand in Mexico: Work to grow my business and turn it into a recognized brand in the Mexican tuning market, standing out for quality and originality.
+* Develop Strategic Alliances: Establish strategic alliances with suppliers, manufacturers and other key players in the automotive industry to strengthen the position of my business.
+* Contribute to the Automotive Community: Contribute to the growth of the automotive community in Mexico, whether through events, sponsorships or initiatives that benefit the sector.
