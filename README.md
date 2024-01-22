@@ -31,3 +31,7 @@
 * Turn it into a Recognized Brand in Mexico: Work to grow my business and turn it into a recognized brand in the Mexican tuning market, standing out for quality and originality.
 * Develop Strategic Alliances: Establish strategic alliances with suppliers, manufacturers and other key players in the automotive industry to strengthen the position of my business.
 * Contribute to the Automotive Community: Contribute to the growth of the automotive community in Mexico, whether through events, sponsorships or initiatives that benefit the sector.
+
+# Personal projects or contributions
+## In this GitHub link you can find some projects that I have developed at the University and also personal projects
+* [GitHub Personal] (
