@@ -23,3 +23,5 @@
 # Objectives and Goals
 ### Short Term Objectives
 * Graduate as a Software Development Engineer: Focus on successfully completing the academic requirements to obtain my degree in Software Development Engineering.
+* Enter a Multinational Company:Look for job opportunities in multinational companies where I can apply my skills as a software developer or in IT support roles.
+* Gain Practical Experience: Actively work to gain practical experience in business environments, facing real challenges and improving my professional skills.
