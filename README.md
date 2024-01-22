@@ -10,3 +10,12 @@
 * Java
 * C++
 * SQL
+* C#
+
+### Design tools
+* Figma
+* NinjaMock
+* PhotoShop
+* Ilustrator
+  
+# Objectives and Goals
