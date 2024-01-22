@@ -34,4 +34,4 @@
 
 # Personal projects or contributions
 ## In this GitHub link you can find some projects that I have developed at the University and also personal projects
-* [GitHub Personal] (https://github.com/alanceballos25/Trabajos_TecMilenio)
+* [GitHub_Personal] (https://github.com/alanceballos25/Trabajos_TecMilenio)
